@@ -43,9 +43,17 @@ Based on the insights from stakeholders, I designed the following dashboard mock
 🔹 Project Delivery – Publish the Tableau dashboard with recommendations for decision-making.
 
 ## 5. Expected Deliverables
-✅ Interactive Tableau Dashboard with real-time insights.   
-✅ Stakeholder Presentation & Report summarizing findings.  
-✅ Actionable Recommendations for revenue growth & cost efficiency.
+✅ Interactive Tableau Dashboard with real-time insights
+<img width="906" alt="image" src="https://github.com/user-attachments/assets/7c0d79ce-13c8-4252-bd1c-f1afd0fc0bdf" />
+
+Tableau Dashboard Link: https://public.tableau.com/app/profile/deepshikha.chhetri/viz/SpotifyPerformanceDashboardIJan25/SpotifyPerformanceDashboard?publish=yes
+   
+✅ Project Report summarizing findings and actionable Recommendations for revenue growth & cost efficiency 
+Report Link: 
+
+✅ Stakeholder Presentation 
+PPT Link: 
+Video Presentation Link: 
 
 
 
