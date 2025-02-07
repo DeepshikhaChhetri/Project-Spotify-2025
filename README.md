@@ -49,7 +49,7 @@ Based on the insights from stakeholders, I designed the following dashboard mock
 Tableau Dashboard Link: https://public.tableau.com/app/profile/deepshikha.chhetri/viz/SpotifyPerformanceDashboardIJan25/SpotifyPerformanceDashboard?publish=yes
    
 ✅ Project Report summarizing findings and actionable Recommendations for revenue growth & cost efficiency    
-Report Link: https://github.com/DeepshikhaChhetri/Project2-Jan-2025/blob/main/Project%20Report%20-%20Spotify.pdf
+Report Link: [Project Report - Spotify.pdf](https://github.com/DeepshikhaChhetri/Project2-Jan-2025/blob/1e8d9a54f50fb24a243c68215826012537df9948/Project%20Report%20-%20Spotify.pdf)
 
 ✅ Stakeholder Presentation      
 PPT Link: https://github.com/DeepshikhaChhetri/Project2-Jan-2025/blob/main/PPT%20-%20Project%20Spotify%20_%20Jan'25.pdf
