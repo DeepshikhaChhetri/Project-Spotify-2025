@@ -43,18 +43,18 @@ Based on the insights from stakeholders, I designed the following dashboard mock
 🔹 Project Delivery – Publish the Tableau dashboard with recommendations for decision-making.
 
 ## 5. Expected Deliverables
-✅ Interactive Tableau Dashboard with real-time insights
+### ✅ Interactive Tableau Dashboard with real-time insights
 <img width="906" alt="image" src="https://github.com/user-attachments/assets/7c0d79ce-13c8-4252-bd1c-f1afd0fc0bdf" />
 
-Tableau Dashboard Link: https://public.tableau.com/app/profile/deepshikha.chhetri/viz/SpotifyPerformanceDashboardIJan25/SpotifyPerformanceDashboard?publish=yes
+#### Tableau Dashboard Link: https://public.tableau.com/app/profile/deepshikha.chhetri/viz/SpotifyPerformanceDashboardIJan25/SpotifyPerformanceDashboard?publish=yes
    
-✅ Project Report summarizing findings and actionable Recommendations for revenue growth & cost efficiency    
+### ✅ Project Report summarizing findings and actionable Recommendations for revenue growth & cost efficiency    
 Report Link: [Project Report - Spotify.pdf](https://github.com/DeepshikhaChhetri/Project2-Jan-2025/blob/1e8d9a54f50fb24a243c68215826012537df9948/Project%20Report%20-%20Spotify.pdf)
 
-✅ Stakeholder Presentation      
+### ✅ Stakeholder Presentation      
 PPT Link: [PPT - Project Spotify _ Jan'25.pdf](https://github.com/DeepshikhaChhetri/Project2-Jan-2025/blob/85f8fae7628871a15dc0c286bdb8fbf2af786099/PPT%20-%20Project%20Spotify%20_%20Jan'25.pdf)
 
-Video Presentation Link: https://www.loom.com/share/65482986da224e888a8b4d1fa27fdc70?sid=0e19b046-83bb-4145-a969-d5b468f5d1c2
+### ✅ Video Presentation Link: https://www.loom.com/share/65482986da224e888a8b4d1fa27fdc70?sid=0e19b046-83bb-4145-a969-d5b468f5d1c2
 
 
 
